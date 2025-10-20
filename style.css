@@ -1,0 +1,17 @@
+body {
+  background-color: #1a0f0f;
+  color: white;
+  cursor: url('assets/cursor.png'), auto;
+}
+
+canvas {
+  background-image: url('./assets/fondo.jpg');
+  background-size: cover;
+  border: 3px solid #ffcc00;
+  border-radius: 10px;
+}
+
+#score {
+  color: #ffcc00;
+  font-weight: bold;
+}
